@@ -1,4 +1,4 @@
 # arifrahaman.netify.com
-My personal resume site
+My personal resume on netlify
 
 https://arifrahaman.netlify.com
